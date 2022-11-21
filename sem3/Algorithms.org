@@ -1,0 +1,38 @@
+#+title: Algorithms
+
+* Syllabus
+** Introduction
+Basic Design and Analysis techniques of Algorithms; Models of computation: RAM, TM etc.; time
+and space complexity; Correctness of Algorithm.
+Asymptotic Notations: Big-O, omega, theta etc.
+Advanced Analysis Technique of algorithm: Amortized analysis
+** Recursion
+Definition, Use, Limitations, Examples: Hanoi problem etc.; Tail Recursion
+** Algorithm Design Techniques
+Iterative techniques, Divide and Conquer, Dynamic Programming, Greedy Algorithms.
+** Sorting and Searching Techniques
+Elementary sorting techniques–Bubble Sort, Insertion Sort, Merge Sort, Advanced Sorting
+techniques - Heap Sort, Quick Sort, Sorting in Linear Time - Bucket Sort, Radix Sort and Count
+Sort, Searching Techniques, Medians & Order Statistics, complexity analysis; Lower Bounding
+Techniques Decision Trees
+Linear search, binary search and their time complexity analysis
+** Divide and Conquer:
+Basic method, use, Examples: Merge sort, Quick Sort, Binary Search
+** Dynamic Programming:
+Basic method, use, Examples: matrix-chain multiplication, All pair shortest paths, single-source
+shortest path, Travelling Salesman problem
+** Backtracking:
+Basic method, use, Examples: Eight queens problem, Graph coloring problem, Hamiltonian
+problem
+** Greedy Method:
+Basic method, use, Examples: Knapsack problem, minimum spanning tree (Prim's and Kruskal's
+algorithms)
+** Graph algorithms:
+Traversal algorithms: BFS and DFS
+Ford-Fulkerson Algorithm for Maximum Flow
+Shortest Path algorithm: Dijkstra Algorithm; Floyd Algorithm
+** Notion of NP-completeness:
+P class, NP-hard class, NP-complete class, Circuit Satisfiability problem, Clique Decision Problem.
+
+* Graph Algorithms
+**

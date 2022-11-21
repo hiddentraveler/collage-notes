@@ -1,0 +1,44 @@
+#+title: Data_structure
+
+* Syllabus
+** Basic
+Basic definitions; classifications; ADT; Linear Data Structures - Sequential representations; Non-linear data structures – representations.
+** Arrays
+Single and Multi-dimensional Arrays; Sparse Matrices (Array and Linked Representation); Row-
+major and column-major order; different applications
+
+** Stacks
+Implementing single / multiple stack/s in an Array; Prefix, Infix and Postfix expressions, Utility and
+conversion of these expressions from one to another; Evaluation of postfix expression using stack;
+Applications of stack; Limitations of Array representation of stack
+
+** Linked Lists
+Singly, Doubly and Circular Lists (Array and Linked representation); Normal and Circular
+representation of Stack in Lists; Self Organizing Lists; Skip Lists
+
+** Queues
+Array and Linked representation of Queue, De-queue, Priority Queues
+** Recursion
+Developing Recursive Definition of Simple Problems and their implementation; Advantages and
+Limitations of Recursion; Understanding what goes behind Recursion (Internal Stack
+Implementation); Tail Recursion; When not to use recursion; Removal of recursion.
+** Trees and Graphs
+Introduction to Tree as a data structure; Binary Trees (Insertion, Deletion , Recursive and Iterative
+Traversals on Binary Search Trees); Different properties of Binary trees; Threaded Binary Trees
+(Insertion, Deletion, Traversals); Height-Balanced Trees (Various operations on AVL Trees); B-
+tree, B+ tree; Graphs - Representations, Breadth-first and Depth-first Search.
+** Searching and Sorting
+Linear Search, Binary Search, Comparison of Linear and Binary Search; Bubble Sort, Selection
+Sort, Insertion Sort, Heap Sort, Merge Sort, Radix Sort, Bucket Sort, Shell Sort; Comparison of
+Sorting Techniques
+** Hashing
+Introduction to Hashing, Deleting from Hash Table, Efficiency of Rehash Methods, Hash Table
+Reordering, Resolving collision by Open Addressing, Coalesced Hashing, Separate Chaining,
+Dynamic and Extendible Hashing, Choosing a Hash Function, Perfect Hashing Function
+** File Structures
+Sequential and Direct Access. Relative Files, Indexed Files - B+ tree as index. Multi-indexed Files,
+Inverted Files, Hashed Files.
+
+* Basic
+* Arrays
+* Stacks
